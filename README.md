@@ -1,0 +1,1 @@
+https://github.com/ferasezzaldeen/drf-api-permissions-postgres/pull/1
